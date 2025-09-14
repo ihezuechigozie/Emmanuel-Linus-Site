@@ -6,7 +6,7 @@ import VentureSection from "./VentureSection";
 import mainImage1 from "../assets/billb1.jpg";
 import mainImage2 from "../assets/billb3.jpg";
 import mainImage3 from "../assets/billb2.jpg";
-import tmIcon1 from "../assets/tmIcon1.jpg";
+import tmIcon1 from "../assets/tmIcon1.JPG";
 import tmIcon2 from "../assets/tmIcon2.png";
 import tmImage6 from "../assets/tmImage6.png";
 import tmWorkers1 from "../assets/tmWorkers1.jpeg";
