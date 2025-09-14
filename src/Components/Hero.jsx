@@ -7,7 +7,7 @@ const Hero = () => {
     <section className="relative w-full h-[80vh] md:h-screen flex items-center justify-center">
    
       <motion.img
-        src={heroImage01}
+        src={heroImage01} 
         alt="Emmanuel Linus"
         className="w-full h-full object-cover"
         loading="lazy"

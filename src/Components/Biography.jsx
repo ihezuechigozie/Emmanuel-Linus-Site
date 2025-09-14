@@ -2,7 +2,7 @@ import React from "react";
 import BiographySection from "./BiographySection";
 import tmImage1 from "../assets/tmImage1.PNG";
 import tmImage2 from "../assets/tmImage2.JPG";
-import tmImage3 from "../assets/tmImage3.JPEG";
+import tmImage3 from "../assets/tmImage3.jfif";
 import billBoard2 from "../assets/billBoard2.PNG";
 
 
