@@ -8,7 +8,7 @@ import mainImage2 from "../assets/billb3.jpg";
 import mainImage3 from "../assets/billb2.jpg";
 import tmIcon1 from "../assets/tmIcon1.JPG";
 import tmIcon2 from "../assets/tmIcon2.PNG";
-import tmImage6 from "../assets/tmImage1.JPG";
+import tmImage6 from "../assets/tmImage1.PNG";
 import tmWorkers1 from "../assets/tmWorkers1.jpeg";
 import tmWorkers2 from "../assets/tmWorkers2.PNG";
 import tmSeminar1 from "../assets/tmSeminar1.jpeg";
