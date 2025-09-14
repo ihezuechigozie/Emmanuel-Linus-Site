@@ -1,9 +1,9 @@
 import React from "react";
 import BiographySection from "./BiographySection";
-import tmImage1 from "../assets/tmImage1.png";
-import tmImage2 from "../assets/tmImage2.jpg";
-import tmImage3 from "../assets/tmImage3.jpeg";
-import billBoard2 from "../assets/billBoard2.png";
+import tmImage1 from "../assets/tmImage1.PNG";
+import tmImage2 from "../assets/tmImage2.JPG";
+import tmImage3 from "../assets/tmImage3.JPEG";
+import billBoard2 from "../assets/billBoard2.PNG";
 
 
 const Biography = () => {
