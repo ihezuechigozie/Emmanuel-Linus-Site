@@ -23,7 +23,7 @@ function ContactSection() {
           <FontAwesomeIcon icon={faMapMarkerAlt} /> Address
         </h3>
         <p className="text-gray-300">
-          123 Talkmuch Plaza, Lagos, Nigeria (Placeholder)
+          123 Talkmuch Plaza, Lagos, Nigeria.
         </p>
       </div>
 
