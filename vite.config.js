@@ -9,7 +9,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
     legacy({
-      targets: ['defaults', 'not IE 11'], // support for older browsers
+      targets: ['defaults', 'Android >= 5', 'Chrome >= 49', 'Safari >= 10','not IE 11'],
       additionalLegacyPolyfills: ['regenerator-runtime/runtime'], // for async/await
     }),
   ],
