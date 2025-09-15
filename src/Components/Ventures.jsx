@@ -24,9 +24,9 @@ const ventures = [
       "Emmanuel Linus established Talkmuch Global LTD as a multi-industry company focused on innovation, entrepreneurship, and sustainable growth. Operating across smart technology, cryptocurrency & fintech, food & hospitality, and e-commerce, it lays the foundation for a diversified business ecosystem.",
     mainImg: mainImage1,
     gallery: [
-      { img: tmIcon1, caption: "TM Global LTD First Official Brand-Launched  Talkmuch Accessories & More" },
-      { img: tmImage6, caption: "The Founder and CEO of TM Global LTD    Emmanuel Linus" },
-      { img: tmIcon2, caption: "TM Global LTD Second Official Brand-Launched  TM Exchange" },
+      { img: tmIcon1, caption: "TalkMuch Global LTD First Official Brand-Launched  Talkmuch Accessories & More" },
+      { img: tmImage6, caption: "The Founder and CEO of TalkMuch Global LTD    Emmanuel Linus" },
+      { img: tmIcon2, caption: "TalkMuch Global LTD Second Official Brand-Launched  TalkMuch Exchange" },
     ],
   },
   {
@@ -56,17 +56,17 @@ const ventures = [
   },
   {
     id: 3,
-    name: "TM Xchange",
+    name: "TalkMuch Xchange",
     founded: "Sep 5, 2023",
     description:
-      "TM Xchange is Emmanuel Linus’ foray into digital finance and cryptocurrency. It offers cryptocurrency trading, gift card exchange, social media verification, virtual top-ups, and other digital services designed for security, reliability, and accessibility.",
+      "TalkMuch Xchange is Emmanuel Linus’ foray into digital finance and cryptocurrency. It offers cryptocurrency trading, gift card exchange, social media verification, virtual top-ups, and other digital services designed for security, reliability, and accessibility.",
     mission:
       "Simplify digital finance and cryptocurrency trading for beginners and experienced users alike, with fast, verified, and trustworthy services.",
     mainImg: mainImage3,
     gallery: [
-      { img: tmSeminar1, caption: "Brand Introduction, Launching & Celebration of TM Xchange" },
-      { img: tmIcon2, caption: "Official Brand 'TM Xchange'" },
-      { img: tmSeminar2, caption: "KAHMOH Unboxed showcased TM Global LTD’s TM Xchange innovation and growth." },
+      { img: tmSeminar1, caption: "Brand Introduction, Launching & Celebration of TalkMuch Xchange" },
+      { img: tmIcon2, caption: "Official Brand 'TalkMuch Xchange'" },
+      { img: tmSeminar2, caption: "KAHMOH Unboxed showcased TalkMuch Global LTD’s TalkMuch Xchange innovation and growth." },
     ],
   },
 ];

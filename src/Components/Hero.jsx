@@ -27,7 +27,7 @@ const Hero = () => {
         transition={{ delay: 0.6, duration: 0.8 }}
       >
       <h2 className="text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-center px-4 leading-snug md:leading-tight normal-case">
-        Emmanuel Linus — CEO TM Global LTD
+        Emmanuel Linus — CEO TalkMuch Global LTD
       </h2>
 
       </motion.div>
